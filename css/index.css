@@ -165,3 +165,44 @@ nav{
     text-align: center;
 }
 
+
+/* shop section */
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pmg{
+ width: 50%;
+}
+
+.one{
+    background-image: url('../images/succulants.jpg');
+}
+.two{
+    background-image: url('../images/cacti.jpg');
+}
+.three{
+    background-image: url('../images/tropicals.jpg');
+}
+
+/* Footer section styles */
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #266035;
+}
+
+footer h2, .bottom{
+    width: 100%;
+    color: #fff;
+}
+
+.info .{
+text-align: right;
+
+}
+
+.fimg{
+    background-image: url('../images/shop.jpg');
+}
