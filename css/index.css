@@ -191,12 +191,14 @@ footer{
     display: flex;
     flex-wrap: wrap;
     background-color: #266035;
+    padding: 4% 0;
 }
 
 footer h2, .bottom{
     width: 100%;
     color: #fff;
 }
+
 
 .info .{
 text-align: right;
